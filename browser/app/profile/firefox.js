@@ -97,8 +97,3 @@ user_pref("toolkit.telemetry.updatePing.enabled", false);
 user_pref("webgl.renderer-string-override", " ");
 user_pref("webgl.vendor-string-override", " ");
 
-// channel prefs
-
-
-pref("app.update.channel", "@MOZ_UPDATE_CHANNEL@");
-
