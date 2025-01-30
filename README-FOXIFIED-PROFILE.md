@@ -8,3 +8,4 @@ defaults at compile time for sneedium2 (HACKY)
 * ffprofile.com
 * firebuilder
 * firefox and it's maintainers
+* extensions in this repo (ublock origin, bitwarden, etc.)
